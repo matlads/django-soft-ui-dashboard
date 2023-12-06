@@ -1,0 +1,7 @@
+django
+python-dotenv
+django-admin-soft-dashboard
+whitenoise
+gunicorn
+# psycopg2-binary
+# mysqlclient
